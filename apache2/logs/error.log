@@ -1,0 +1,6 @@
+[Sat Oct 13 07:46:42.156594 2018] [mpm_winnt:notice] [pid 10444:tid 728] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Sat Oct 13 07:46:42.156594 2018] [mpm_winnt:notice] [pid 10444:tid 728] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Sat Oct 13 07:46:42.156594 2018] [core:notice] [pid 10444:tid 728] AH00094: Command line: 'C:\\Users\\ite15-14\\Desktop\\USBWebserver v8.6/apache2/bin/httpd_usbwv8.exe -d C:/Users/ite15-14/Desktop/USBWebserver v8.6/apache2'
+[Sat Oct 13 07:46:42.219093 2018] [mpm_winnt:notice] [pid 10444:tid 728] AH00418: Parent: Created child process 988
+[Sat Oct 13 07:46:43.312766 2018] [mpm_winnt:notice] [pid 988:tid 812] AH00354: Child: Starting 64 worker threads.
+[Sat Oct 13 07:47:38.319740 2018] [:error] [pid 988:tid 1336] [client ::1:25973] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\\Users\\ite15-14\\Desktop\\USBWebserver v8.6\\root\\commerce\\wp-includes\\functions.php on line 4848
